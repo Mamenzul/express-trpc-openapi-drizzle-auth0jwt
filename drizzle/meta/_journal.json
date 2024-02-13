@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1700513811559,
+      "tag": "0000_perfect_bug",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1700590881644,
+      "tag": "0001_polite_susan_delgado",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1700591210099,
+      "tag": "0002_furry_captain_flint",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1700591473548,
+      "tag": "0003_kind_donald_blake",
+      "breakpoints": true
+    }
+  ]
+}

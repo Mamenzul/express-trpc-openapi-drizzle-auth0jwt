@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  my-node-app:
+    build:
+      context: .
+      target: production
+      dockerfile: Dockerfile
+    ports:
+      - "80:3000"
+    env_file:
+      - .env
+    command: pnpm start
