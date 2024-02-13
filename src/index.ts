@@ -21,8 +21,6 @@ const checkJwt = auth({
 
 app.use(cors());
 
-app.use(express.json());
-
 app.use(
   "/api/trpc",
   checkJwt,
